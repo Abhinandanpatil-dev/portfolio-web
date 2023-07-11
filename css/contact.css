@@ -1,0 +1,48 @@
+
+.section-4{
+  height: 100vh;
+}
+.social-media-links{
+  margin-top: 100px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+
+
+}
+.link-img{
+  height: 20px;
+}
+.img-1,.img-2,.img-3{
+  height: 70px;
+
+}
+.contact-data{
+ border: solid rgb(167, 163, 163) 2px;
+
+}
+.no-mail{
+  text-align: center;
+  font-weight: bold;
+}
+.buttons{
+  padding: 12px;
+  
+  background-color: rgb(197, 197, 241);
+  font-weight: bold;
+  border: none;
+  border-radius: 20px;
+  text-align: center;
+ 
+ 
+}
+.buttons:hover {
+  background-color: rgb(0, 0, 0);
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+}
+.buttons a{
+  color: inherit;
+  
+}
